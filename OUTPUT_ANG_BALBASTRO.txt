@@ -1,0 +1,35 @@
+Q1: What is the average baseline life expectancy considering all territories?
+A1: 72.856708
+
+Q2: If the SoGA_Dataset were to have its baseline life expectancy sorted top to down in DESCENDING order (excluding global), what would be the names of the territories from 0 to 9? List the territory name and the corresponding baseline life expectancy. 
+A2: When parameter_start_index is set to 0 and parameter_end_index is set to 9, the answer is as follows:
+
+Singapore                 84.565300
+Japan                     84.557851
+Iceland                   83.891722
+Switzerland               83.863622
+Italy                     83.032133
+Spain                     83.012277
+Israel                    82.902047
+Norway                    82.829180
+South_Korea               82.826250
+Luxembourg                82.798953
+
+Q3: What are the territories (excluding global) and their corresponding baseline LEs that have a Baseline LE between 75.50 and 76.00? List the answers in DESCCENDING order.
+A3: When parameter_baselineLE_low is set to 75.50 and parameter_baselineLE_high is set to 76.00, the answer is as follows:
+
+Libya                     75.863396
+Latvia                    75.843692
+Montenegro                75.836708
+Brazil                    75.744378
+Armenia                   75.686279
+Mexico                    75.671600
+Serbia                    75.651801
+El_Salvador               75.564048
+
+Q4: If the SoGA_Dataset were to have its Delta Air Pollution sorted top to down in ASCENDING order, what is the delta air pollution of the 10th country? Provide the territory name.
+A4: Ireland, Air Pollution: 0.163051
+
+Q5: What is the baseline LE of Poland?
+A5: Poland's baseline LE is: 78.066701
+
